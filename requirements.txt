@@ -1,0 +1,10 @@
+openai 
+langchain 
+pypdf 
+tqdm 
+langchain_community 
+langchain_openai 
+pinecone
+stqdm 
+langchain-pinecone 
+st-annotated-text
